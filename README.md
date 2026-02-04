@@ -1,2 +1,2 @@
 # projeto_dio_santander
- link [project](https://web.dio.me/project/conversando-por-voz-com-o-chatgpt-utilizando-whisper-openai-e-python/learning/91e3c941-0742-411a-aaef-0cf115cead00)
+ link [project](https://colab.research.google.com/drive/1ADySWQX_lJ6BORP7kja_qTw-JmbZQKW4?authuser=0#scrollTo=bAPhZQChbjfb)
